@@ -13,7 +13,7 @@ const BIG_TEAMS = [
     "Real Madrid", "Barcelona", "Atletico Madrid",
     "AC Milan", "Inter", "Juventus", "Napoli",
     "Bayern Munich", "Paris Saint Germain", "Borussia Dortmund",
-    "Persib", "Persija", "Arema", "Persebaya"
+    "Persib", "Persija", "Arema", "Persebaya", "Japan"
 ];
 
 async function fetchMatches() {
